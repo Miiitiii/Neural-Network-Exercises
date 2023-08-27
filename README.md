@@ -1,2 +1,1 @@
-# Neural-Network-Exercises
-Neural Network Exercises for Amirkabir University
+# Neural Network Exercises for Amirkabir University
